@@ -1,0 +1,1 @@
+This C code generates an animated ASCII art representation of three rotating cubes. It runs in the terminal (console) and utilizes various mathematical calculations to project 3D coordinates onto a 2D plane.
